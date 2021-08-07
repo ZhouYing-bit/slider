@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/slider">
+        <file>img/handler.png</file>
+    </qresource>
+</RCC>
